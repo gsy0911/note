@@ -28,6 +28,7 @@ epub_publisher = 'gsy0911'
 epub_identifier = 'GSY0911X01'
 epub_scheme = 'URL'
 epub_tocdepth = 2
+version = "0.1.0"
 
 # -- General configuration ---------------------------------------------------
 
